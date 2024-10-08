@@ -1,5 +1,5 @@
 {
-    "name": "tecnickcom/tcpdf",
+    "name": "streammarket/tcpdf",
     "type": "library",
     "description": "TCPDF is a PHP class for generating PDF documents and barcodes.",
     "keywords": [
@@ -16,8 +16,8 @@
     "license": "LGPL-3.0-or-later",
     "authors": [
         {
-            "name": "Nicola Asuni",
-            "email": "info@tecnick.com",
+            "name": "StreamMarket",
+            "email": "support@streammarket.co.uk",
             "role": "lead"
         }
     ],
