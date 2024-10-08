@@ -10,7 +10,7 @@
         "datamatrix",
         "pdf417",
         "barcodes"
-    ],
+    ], 
     "homepage": "http://www.tcpdf.org/",
     "version": "1.0",
     "license": "LGPL-3.0-or-later",
